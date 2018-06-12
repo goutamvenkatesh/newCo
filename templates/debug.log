@@ -1,0 +1,6 @@
+[0602/201824.684:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Program Files (x86)\Easthas\Reports\Dump: The system cannot find the path specified. (0x3)
+[0602/201824.688:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0602/201824.689:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Program Files (x86)\Easthas\Reports\Dump: The system cannot find the path specified. (0x3)
+[0612/134144.761:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Program Files (x86)\Easthas\Reports\Dump: The system cannot find the path specified. (0x3)
+[0612/134144.767:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0612/134144.768:ERROR:crash_report_database_win.cc(568)] CreateDirectory C:\Program Files (x86)\Easthas\Reports\Dump: The system cannot find the path specified. (0x3)
